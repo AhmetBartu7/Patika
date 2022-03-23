@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\C#\ArraySinifiMetot\ArraySinifiMetot\bin\Debug\ArraySinifiMetot.exe.config
+C:\Users\pc\Desktop\C#\ArraySinifiMetot\ArraySinifiMetot\bin\Debug\ArraySinifiMetot.exe
+C:\Users\pc\Desktop\C#\ArraySinifiMetot\ArraySinifiMetot\bin\Debug\ArraySinifiMetot.pdb
+C:\Users\pc\Desktop\C#\ArraySinifiMetot\ArraySinifiMetot\obj\Debug\ArraySinifiMetot.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\ArraySinifiMetot\ArraySinifiMetot\obj\Debug\ArraySinifiMetot.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\ArraySinifiMetot\ArraySinifiMetot\obj\Debug\ArraySinifiMetot.exe
+C:\Users\pc\Desktop\C#\ArraySinifiMetot\ArraySinifiMetot\obj\Debug\ArraySinifiMetot.pdb

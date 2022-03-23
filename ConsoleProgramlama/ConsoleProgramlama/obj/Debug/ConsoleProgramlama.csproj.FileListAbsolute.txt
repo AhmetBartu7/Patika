@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\C#\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\ConsoleProgramlama.exe.config
+C:\Users\pc\Desktop\C#\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\ConsoleProgramlama.exe
+C:\Users\pc\Desktop\C#\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\ConsoleProgramlama.pdb
+C:\Users\pc\Desktop\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.exe
+C:\Users\pc\Desktop\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.pdb
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\ConsoleProgramlama.exe.config
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\ConsoleProgramlama.exe
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\ConsoleProgramlama.pdb
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.exe
+C:\Users\pc\Desktop\Patika\C#\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\ConsoleProgramlama.pdb

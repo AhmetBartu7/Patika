@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\C#\While_Foreach\While_Foreach\bin\Debug\While_Foreach.exe.config
+C:\Users\pc\Desktop\C#\While_Foreach\While_Foreach\bin\Debug\While_Foreach.exe
+C:\Users\pc\Desktop\C#\While_Foreach\While_Foreach\bin\Debug\While_Foreach.pdb
+C:\Users\pc\Desktop\C#\While_Foreach\While_Foreach\obj\Debug\While_Foreach.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\While_Foreach\While_Foreach\obj\Debug\While_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\While_Foreach\While_Foreach\obj\Debug\While_Foreach.exe
+C:\Users\pc\Desktop\C#\While_Foreach\While_Foreach\obj\Debug\While_Foreach.pdb
