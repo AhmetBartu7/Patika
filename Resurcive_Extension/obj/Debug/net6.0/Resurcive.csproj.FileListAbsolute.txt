@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Patika\C#\Resurcive\bin\Debug\net6.0\Resurcive.exe
+C:\Users\pc\Desktop\Patika\C#\Resurcive\bin\Debug\net6.0\Resurcive.deps.json
+C:\Users\pc\Desktop\Patika\C#\Resurcive\bin\Debug\net6.0\Resurcive.runtimeconfig.json
+C:\Users\pc\Desktop\Patika\C#\Resurcive\bin\Debug\net6.0\Resurcive.dll
+C:\Users\pc\Desktop\Patika\C#\Resurcive\bin\Debug\net6.0\Resurcive.pdb
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.AssemblyInfo.cs
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.dll
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\refint\Resurcive.dll
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.pdb
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\Resurcive.genruntimeconfig.cache
+C:\Users\pc\Desktop\Patika\C#\Resurcive\obj\Debug\net6.0\ref\Resurcive.dll
