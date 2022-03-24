@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\bin\Debug\net6.0\HazirMetotlar2.exe
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\bin\Debug\net6.0\HazirMetotlar2.deps.json
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\bin\Debug\net6.0\HazirMetotlar2.runtimeconfig.json
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\bin\Debug\net6.0\HazirMetotlar2.dll
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\bin\Debug\net6.0\HazirMetotlar2.pdb
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.AssemblyInfo.cs
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.dll
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\refint\HazirMetotlar2.dll
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.pdb
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\HazirMetotlar2.genruntimeconfig.cache
+C:\Users\pc\Desktop\Patika\C#\HazirMetotlar2\obj\Debug\net6.0\ref\HazirMetotlar2.dll
