@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\bin\Debug\net6.0\ClasslaraGiris.exe
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\bin\Debug\net6.0\ClasslaraGiris.deps.json
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\bin\Debug\net6.0\ClasslaraGiris.runtimeconfig.json
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\bin\Debug\net6.0\ClasslaraGiris.dll
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\bin\Debug\net6.0\ClasslaraGiris.pdb
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.AssemblyInfo.cs
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.dll
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\refint\ClasslaraGiris.dll
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.pdb
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ClasslaraGiris.genruntimeconfig.cache
+C:\Users\pc\Desktop\Patika\C#\Class\ClasslaraGiris\obj\Debug\net6.0\ref\ClasslaraGiris.dll
