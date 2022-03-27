@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\bin\Debug\net6.0\StaticSinif.exe
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\bin\Debug\net6.0\StaticSinif.deps.json
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\bin\Debug\net6.0\StaticSinif.runtimeconfig.json
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\bin\Debug\net6.0\StaticSinif.dll
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\bin\Debug\net6.0\StaticSinif.pdb
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.AssemblyInfo.cs
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.dll
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\refint\StaticSinif.dll
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.pdb
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\StaticSinif.genruntimeconfig.cache
+C:\Users\pc\Desktop\Patika\C#\Class\StaticSinif\obj\Debug\net6.0\ref\StaticSinif.dll
