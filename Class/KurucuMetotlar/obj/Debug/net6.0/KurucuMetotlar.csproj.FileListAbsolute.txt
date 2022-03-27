@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.AssemblyInfo.cs
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\bin\Debug\net6.0\KurucuMetotlar.exe
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\bin\Debug\net6.0\KurucuMetotlar.deps.json
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\bin\Debug\net6.0\KurucuMetotlar.runtimeconfig.json
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\bin\Debug\net6.0\KurucuMetotlar.dll
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\bin\Debug\net6.0\KurucuMetotlar.pdb
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.dll
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\refint\KurucuMetotlar.dll
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.pdb
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\KurucuMetotlar.genruntimeconfig.cache
+C:\Users\pc\Desktop\Patika\C#\Class\KurucuMetotlar\obj\Debug\net6.0\ref\KurucuMetotlar.dll
